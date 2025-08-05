@@ -101,10 +101,6 @@ The implementation is designed for educational purposes and demonstrates:
 - Efficient tree traversal for encoding/decoding
 - Memory-efficient bit-level I/O operations
 
-## Students
-- Victor Lee (VCL363) - victorleecs@utexas.edu
-- Peter Hwang (sh49687) - petersh0317@utexas.edu
-- TA: Nina
 
 ## Notes
 - This implementation uses a custom priority queue instead of Java's built-in version
